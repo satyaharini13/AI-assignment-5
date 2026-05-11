@@ -15,6 +15,6 @@ Built using RDFLib.
 ## Bayesian Network
 Built using pgmpy.
 
-## Run
+
 
 
